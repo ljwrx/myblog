@@ -2,7 +2,7 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: http://ljwrx.github.io/myblog
 title: My Octopress Blog
 subtitle: A blogging framework for hackers.
 author: Your Name
@@ -16,7 +16,7 @@ description:
 date_format: "ordinal"
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
-subscribe_rss: /atom.xml
+subscribe_rss: /myblog/atom.xml
 subscribe_email:
 # RSS feeds can list your email address if you like
 email:
@@ -26,10 +26,10 @@ email:
 # ----------------------- #
 
 # If publishing to a subdirectory as in http://site.com/project set 'root: /project'
-root: /
+root: /myblog
 permalink: /blog/:year/:month/:day/:title/
 source: source
-destination: public
+destination: public/myblog
 plugins: plugins
 code_dir: downloads/code
 category_dir: blog/categories
@@ -69,10 +69,6 @@ github_repo_count: 0
 github_show_profile_link: true
 github_skip_forks: true
 
-# Twitter
-twitter_user:
-twitter_tweet_button: true
-
 # Google +1
 google_plus_one: false
 google_plus_one_size: medium
@@ -91,8 +87,8 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
-disqus_show_comment_count: false
+disqus_short_name: ljwrx
+disqus_show_comment_count: true
 
 # Google Analytics
 google_analytics_tracking_id:
