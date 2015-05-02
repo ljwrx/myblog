@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://ljwrx.github.io/myblog/atom.xml" rel="self"/>
   <link href="http://ljwrx.github.io/myblog/"/>
-  <updated>2015-05-03T02:48:55+08:00</updated>
+  <updated>2015-05-03T02:57:20+08:00</updated>
   <id>http://ljwrx.github.io/myblog/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,5 +12,14 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[第一篇]]></title>
+    <link href="http://ljwrx.github.io/myblog/blog/2015/05/03/di-%5B%3F%5D-pian/"/>
+    <updated>2015-05-03T02:54:15+08:00</updated>
+    <id>http://ljwrx.github.io/myblog/blog/2015/05/03/di-[?]-pian</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
   
 </feed>
